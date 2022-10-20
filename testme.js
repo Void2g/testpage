@@ -5,3 +5,4 @@ function something() {
 }
 
 console.log("Hello")
+something()
